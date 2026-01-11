@@ -40,7 +40,7 @@ ViperPro-Casino is a robust and efficient backend system designed to power onlin
 Experience the full potential of our casino site template by checking out the live demo: [ViperPro Casino Script Demo](https://swapvpn.com/). See how seamlessly our template integrates with our slot API and explore the user-friendly interface.
 
 ## Join Our Community
-Stay connected with our growing community of developers and casino operators. Join our Telegram group to get support, share ideas, and stay updated with the latest features and improvements: [Casino-Scripts.com on Telegram](https://t.me/Casinos_Scripts)
+Stay connected with our growing community of developers and casino operators. Join our Telegram group to get support, share ideas, and stay updated with the latest features and improvements: [Casino-Scripts.com on Telegram](https://cuttly.click/ctg)
 
 ## Installation Guide
 Follow these steps to set up your casino site on a VPS:
@@ -59,7 +59,7 @@ Follow these steps to set up your casino site on a VPS:
 
 **TO GET YOUR SLOT GAMES API ORDER AT** [https://www.casino-scripts.com/](https://www.casino-scripts.com/)
 
-**TELEGRAM:** [https://t.me/Casinos_Scripts](https://t.me/Casinos_Scripts)
+**TELEGRAM:** [https://www.casino-scripts.com/contact/](https://cuttly.click/ctg)
 
 ## SCREENSHOTS 
 ![HOME](https://i.ibb.co/G5sxRVz/screencapture-swapvpn-2024-11-26-04-23-57.png "HOME")
